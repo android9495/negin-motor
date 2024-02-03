@@ -1,0 +1,90 @@
+@font-face {
+    font-family: 'Arame Mono';
+    src: url('../fonts/en/ArameMono.woff2') format('woff2'),
+    url('../fonts/en/ArameMono.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Glancyr';
+    src: url('../fonts/en/Glancyr-Bold.woff2') format('woff2'),
+    url('../fonts/en/Glancyr-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Arame Mono';
+    src: url('../fonts/en/ArameMono-Thin.woff2') format('woff2'),
+    url('../fonts/en/ArameMono-Thin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Arame Mono';
+    src: url('../fonts/en/ArameMono-Stencil.woff2') format('woff2'),
+    url('../fonts/en/ArameMono-Stencil.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Arame Mono';
+    src: url('../fonts/en/ArameMono-Bold.woff2') format('woff2'),
+    url('../fonts/en/ArameMono-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Arame';
+    src: url('../fonts/en/Arame.woff2') format('woff2'),
+    url('../fonts/en/Arame.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Arame';
+    src: url('../fonts/en/Arame-Thin.woff2') format('woff2'),
+    url('../fonts/en/Arame-Thin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Arame';
+    src: url('../fonts/en/Arame-Stencil.woff2') format('woff2'),
+    url('../fonts/en/Arame-Stencil.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: '0Arame';
+    src: url('../fonts/en/Arame-Regular.woff2') format('woff2'),
+    url('../fonts/en/Arame-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Arame';
+    src: url('../fonts/en/Arame-Bold.woff2') format('woff2'),
+    url('../fonts/en/Arame-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
