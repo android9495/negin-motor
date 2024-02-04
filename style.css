@@ -15,6 +15,9 @@ html,body,p,span,a,ul li,ol li,textarea,input,h1,h2,h3,h4,h5,h6{
 :root {
     --white:#fff;
     --black:#000;
+    --gray:#3B3B3B;
+    --orange:#EF9076;
+    --green:#4ECB71;
     --spaceX:5rem;
     --spaceXX: 10vw;
     --spaceXXX: 15vw;
@@ -33,6 +36,9 @@ body{
     padding-left: var(--spaceX);
     -webkit-box-sizing: border-box;
     box-sizing: border-box;
+}
+p{
+    line-height: 1.7;
 }
 .paddingXX{
     padding-right: var(--spaceXX);
@@ -267,25 +273,18 @@ h6 {
 html.lenis {
     height: auto;
 }
-
 .lenis.lenis-smooth {
     scroll-behavior: auto !important;
 }
-
 .lenis.lenis-smooth [data-lenis-prevent] {
     -ms-scroll-chaining: none;
     overscroll-behavior: contain;
 }
-
 .lenis.lenis-stopped {
     overflow: hidden;
 }
-
 .lenis.lenis-scrolling iframe {
     pointer-events: none;
-}
-main.wrapper {
-    padding-bottom: 15rem;
 }
 /*============GENERAL CLASS==============*/
 /*==================R E S P O N S I V E==================*/
